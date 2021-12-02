@@ -1,0 +1,2 @@
+# sonarqube-cn-docker
+基于sonarqube社区版docker镜像集成一些常用插件以及PostgreSQL数据库的docker-compose项目
